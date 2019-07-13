@@ -1,0 +1,1 @@
+# music-ratings-app-frontend-vanillaJS
